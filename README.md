@@ -51,5 +51,5 @@ We plan to expand TerraPulse by incorporating more real-time data sources, enhan
 
 **YouTube Demo**: [Watch the TerraPulse Demo](https://youtu.be/DGli0Blb-LU)
 
-**Hugging Face Space**: [Explore TerraPulse on Hugging Face](https://huggingface.co/spaces/samiee2213/terra_pulse)
+**Hugging Face Space**: [Explore TerraPulse on Hugging Face]([https://huggingface.co/spaces/samiee2213/terra_pulse](https://huggingface.co/spaces/swayam-the-coder/TerraPulse))
 
