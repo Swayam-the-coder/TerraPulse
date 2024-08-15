@@ -47,9 +47,9 @@ Integrating multiple APIs was a significant challenge, requiring careful managem
 ## What's Next for TerraPulse
 We plan to expand TerraPulse by incorporating more real-time data sources, enhancing our AI-driven recommendations, and adding features like community-driven sustainability challenges. Our goal is to make TerraPulse a global platform that drives real change in how we interact with the environment.
 
-**GitHub Repository**: [TerraPulse on GitHub]([https://github.com/sam22ridhi/Terrapulse](https://github.com/Swayam-the-coder/TerraPulse))
+**GitHub Repository**: [TerraPulse on GitHub](https://github.com/Swayam-the-coder/TerraPulse)
 
 **YouTube Demo**: [Watch the TerraPulse Demo](https://youtu.be/DGli0Blb-LU)
 
-**Hugging Face Space**: [Explore TerraPulse on Hugging Face]([https://huggingface.co/spaces/samiee2213/terra_pulse](https://huggingface.co/spaces/swayam-the-coder/TerraPulse))
+**Hugging Face Space**: [Explore TerraPulse on Hugging Face](https://huggingface.co/spaces/swayam-the-coder/TerraPulse)
 
