@@ -1,0 +1,9 @@
+streamlit
+googlemaps
+pillow
+folium
+streamlit-folium
+python-dotenv
+streamlit-option-menu
+plotly
+google-generativeai
